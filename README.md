@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a practice assignment for learnhowtoprogram.com of building a basic webpage using HTML. _
+_This is a practice assignment for learnhowtoprogram.com of building a basic webpage using HTML._
 
 ## Setup/Installation Requirements
 
@@ -16,14 +16,14 @@ _This is a practice assignment for learnhowtoprogram.com of building a basic web
 
 ## Known Bugs
 
-_As we learn more about HTML, CSS, and web design, this page may be updated to be more user friendly and aesthetically pleasing. _
+_As we learn more about HTML, CSS, and web design, this page may be updated to be more user friendly and aesthetically pleasing._
 
 ## Technologies Used
 
-_HTML _
+_HTML_
 
 ### License
 
 *Licensed under the MIT license*
 
-Copyright (c) 2020 **_Jessica Williams, HR Williams _**
+Copyright (c) 2020 **_Jessica Williams, HR Williams_**
