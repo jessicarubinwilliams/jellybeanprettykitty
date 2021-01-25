@@ -21,6 +21,10 @@ _As we learn more about HTML, CSS, and web design, this page may be updated to b
 ## Technologies Used
 
 _HTML_
+_CSS_
+_Bootstrap Library_
+_JavaScript_
+_jQuery Library_
 
 ### License
 
