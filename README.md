@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a practice assignment for learnhowtoprogram.com of building a basic webpage using HTML._
+_This is a practice assignment for learnhowtoprogram.com of building a basic webpage using HTML. The user may click buttons to change the background color from light to dark._
 
 ## Setup/Installation Requirements
 
